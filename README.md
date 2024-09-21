@@ -2,8 +2,8 @@
 <h4 align="center">Welcome to my profile.</h4>
   
   <p align="center">
-    <a href="https://github.com/fxzzi/.dots/stargazers"><img src="https://img.shields.io/github/stars/fxzzi?colorA=1E1E2E&colorB=96CDFB&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/fxzzi/dotfiles/stargazers"><img src="https://img.shields.io/github/stars/fxzzi?colorA=1E1E2E&colorB=96CDFB&style=for-the-badge&logo=starship"></a>
 </p>
   <p align="center">
-    <a href="https://github.com/fxzzi/.dots/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fxzzi&repo=.dots"></a>
+    <a href="https://github.com/fxzzi/dotfiles/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fxzzi&repo=dotfiles"></a>
 </p>
